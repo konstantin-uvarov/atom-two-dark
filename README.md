@@ -21,4 +21,6 @@ If you download and install the font in your system, you can add this option to 
 
 ## Credits
 
-[Atom](https://github.com/atom)
+Free and open source text editor [Atom](https://github.com/atom)
+
+Mahmoud Ali, author of [Atom One Dark](https://github.com/akamud/vscode-theme-onedark)
