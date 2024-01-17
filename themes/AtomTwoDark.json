@@ -87,114 +87,114 @@
     "peekViewEditor.background": "#1B1D23"
   },
   "tokenColors": [
-		{
-			"name": "Keyword",
-			"scope": ["keyword"],
-			"settings": { "foreground": "#61AFEF" }
-		},
-		{
-			"name": "Keyword Control",
-			"scope": ["keyword.control"],
-			"settings": { "foreground": "#61AFEF" }
-		},
-		{
-			"name": "Keyword Operator",
-			"scope": ["keyword.operator"],
-			"settings": { "foreground": "#61AFEF" }
-		},
-		{
-			"name": "Storage",
-			"scope": ["storage"],
-			"settings": { "foreground": "#61AFEF" }
-		},
-		{
-			"name": "Storage Type Annotation,storage Type Primitive",
-			"scope": ["storage.type.annotation", "storage.type.primitive"],
-			"settings": { "foreground": "#61AFEF" }
-		},
-		{
-			"name": "Meta Selector",
-			"scope": ["meta.selector"],
-			"settings": { "foreground": "#61AFEF" }
-		},
-		{
-			"name": "[VSCODE-CUSTOM] JS/TS Instanceof Keyword",
-			"scope": [
-				"keyword.operator.expression.instanceof.js",
-				"keyword.operator.expression.instanceof.ts",
-				"keyword.operator.expression.instanceof.tsx"
-			],
-			"settings": { "foreground": "#61AFEF" }
-		},
-		{
-			"name": "[VSCODE-CUSTOM] JS/TS Of Keyword",
-			"scope": [
-				"keyword.operator.expression.of.js",
-				"keyword.operator.expression.of.ts",
-				"keyword.operator.expression.of.tsx"
-			],
-			"settings": { "foreground": "#61AFEF" }
-		},
-		{
-			"name": "[VSCODE-CUSTOM] JS/TS Keyword New",
-			"scope": [
-				"keyword.operator.new.ts",
-				"keyword.operator.new.j",
-				"keyword.operator.new.tsx"
-			],
-			"settings": { "foreground": "#61AFEF" }
-		},
-		{
-			"name": "[VSCODE-CUSTOM] JS/TS In Keyword for Loops",
-			"scope": [
-				"keyword.operator.expression.in.js",
-				"keyword.operator.expression.in.jsx",
-				"keyword.operator.expression.in.ts",
-				"keyword.operator.expression.in.tsx"
-			],
-			"settings": { "foreground": "#61AFEF" }
-		},
-		{
-			"name": "Source Js Keyword Operator Delete,source Js Keyword Operator In,source Js Keyword Operator Of,source Js Keyword Operator Instanceof,source Js Keyword Operator New,source Js Keyword Operator Typeof,source Js Keyword Operator Void",
-			"scope": [
-				"source.js keyword.operator.delete",
-				"source.js keyword.operator.in",
-				"source.js keyword.operator.of",
-				"source.js keyword.operator.instanceof",
-				"source.js keyword.operator.new",
-				"source.js keyword.operator.typeof",
-				"source.js keyword.operator.void"
-			],
-			"settings": { "foreground": "#61AFEF" }
-		},
-		{
-			"name": "Keyword Other Special Method",
-			"scope": ["keyword.other.special-method"],
-			"settings": { "foreground": "#7ab3b1" }
-		},
-		{
-			"name": "Support Function Any Method",
-			"scope": ["support.function.any-method"],
-			"settings": { "foreground": "#7ab3b1" }
-		},
-		{
-			"name": "Entity Name Function",
-			"scope": ["entity.name.function"],
-			"settings": { "foreground": "#7ab3b1" }
-		},
-		{
-			"name": "JSON Property Name",
-			"scope": [
-				"support.type.property-name.json",
-				"support.type.property-name.json punctuation"
-			],
-			"settings": { "foreground": "#D19A66" }
-		},
-		{
-			"name": "Entity Attributes and Tags",
-			"scope": ["entity.other.attribute-name", "meta.tag.attributes"],
-			"settings": { "foreground": "#7ab3b1" }
-		},
+    {
+      "name": "Keyword",
+      "scope": ["keyword"],
+      "settings": { "foreground": "#61AFEF" }
+    },
+    {
+      "name": "Keyword Control",
+      "scope": ["keyword.control"],
+      "settings": { "foreground": "#61AFEF" }
+    },
+    {
+      "name": "Keyword Operator",
+      "scope": ["keyword.operator"],
+      "settings": { "foreground": "#61AFEF" }
+    },
+    {
+      "name": "Storage",
+      "scope": ["storage"],
+      "settings": { "foreground": "#61AFEF" }
+    },
+    {
+      "name": "Storage Type Annotation,storage Type Primitive",
+      "scope": ["storage.type.annotation", "storage.type.primitive"],
+      "settings": { "foreground": "#61AFEF" }
+    },
+    {
+      "name": "Meta Selector",
+      "scope": ["meta.selector"],
+      "settings": { "foreground": "#61AFEF" }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] JS/TS Instanceof Keyword",
+      "scope": [
+        "keyword.operator.expression.instanceof.js",
+        "keyword.operator.expression.instanceof.ts",
+        "keyword.operator.expression.instanceof.tsx"
+      ],
+      "settings": { "foreground": "#61AFEF" }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] JS/TS Of Keyword",
+      "scope": [
+        "keyword.operator.expression.of.js",
+        "keyword.operator.expression.of.ts",
+        "keyword.operator.expression.of.tsx"
+      ],
+      "settings": { "foreground": "#61AFEF" }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] JS/TS Keyword New",
+      "scope": [
+        "keyword.operator.new.ts",
+        "keyword.operator.new.j",
+        "keyword.operator.new.tsx"
+      ],
+      "settings": { "foreground": "#61AFEF" }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] JS/TS In Keyword for Loops",
+      "scope": [
+        "keyword.operator.expression.in.js",
+        "keyword.operator.expression.in.jsx",
+        "keyword.operator.expression.in.ts",
+        "keyword.operator.expression.in.tsx"
+      ],
+      "settings": { "foreground": "#61AFEF" }
+    },
+    {
+      "name": "Source Js Keyword Operator Delete,source Js Keyword Operator In,source Js Keyword Operator Of,source Js Keyword Operator Instanceof,source Js Keyword Operator New,source Js Keyword Operator Typeof,source Js Keyword Operator Void",
+      "scope": [
+        "source.js keyword.operator.delete",
+        "source.js keyword.operator.in",
+        "source.js keyword.operator.of",
+        "source.js keyword.operator.instanceof",
+        "source.js keyword.operator.new",
+        "source.js keyword.operator.typeof",
+        "source.js keyword.operator.void"
+      ],
+      "settings": { "foreground": "#61AFEF" }
+    },
+    {
+      "name": "Keyword Other Special Method",
+      "scope": ["keyword.other.special-method"],
+      "settings": { "foreground": "#7ab3b1" }
+    },
+    {
+      "name": "Support Function Any Method",
+      "scope": ["support.function.any-method"],
+      "settings": { "foreground": "#7ab3b1" }
+    },
+    {
+      "name": "Entity Name Function",
+      "scope": ["entity.name.function"],
+      "settings": { "foreground": "#7ab3b1" }
+    },
+    {
+      "name": "JSON Property Name",
+      "scope": [
+        "support.type.property-name.json",
+        "support.type.property-name.json punctuation"
+      ],
+      "settings": { "foreground": "#D19A66" }
+    },
+    {
+      "name": "Entity Attributes and Tags",
+      "scope": ["entity.other.attribute-name", "meta.tag.attributes"],
+      "settings": { "foreground": "#7ab3b1" }
+    },
     {
       "name": "Comment",
       "scope": ["comment"],
@@ -1389,5 +1389,6 @@
       "scope": "meta.class.php",
       "settings": { "foreground": "#ABB2BF" }
     }
-  ]
+  ],
+  "semanticHighlighting": true
 }
