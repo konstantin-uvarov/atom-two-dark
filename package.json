@@ -3,12 +3,25 @@
   "displayName": "Atom Two Dark",
   "description": "VS Code theme based on Atom One Dark",
   "version": "0.0.1",
+  "publisher": "konstantin-uvarov",
+  "license": "MIT",
+  "galleryBanner": {
+    "color": "#282C34",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "atom",
+    "theme",
+    "dark",
+    "two dark"
+  ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
@@ -17,5 +30,14 @@
         "path": "./themes/AtomTwoDark.json"
       }
     ]
+  },
+  "bugs": {
+    "url": "https://github.com/konstantin-uvarov/atom-two-dark/issues",
+    "email": "uvarov@msn.com"
+  },
+  "homepage": "https://github.com/konstantin-uvarov/atom-two-dark",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/konstantin-uvarov/atom-two-dark"
   }
 }
