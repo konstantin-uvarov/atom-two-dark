@@ -4,6 +4,16 @@ VSCode Theme based on [Atom One Dark](https://github.com/akamud/vscode-theme-one
 
 ![](https://raw.githubusercontent.com/konstantin-uvarov/atom-two-dark/main/screenshots/preview.png)
 
+## Installation
+
+Copy the extension folder to the extension directory. This is:
+
+on **Windows** `%USERPROFILE%\.vscode\extensions`
+
+on **Mac/Linux** `$HOME/.vscode/extensions`
+
+Restart VSCode and select the new theme in `File -> Preferences -> Color Theme`
+
 ## Customization
 
 If you are using VSCode 1.12+ versions you can customize the colors to your liking, overriding the ones provided by this theme. More info [here](https://code.visualstudio.com/docs/getstarted/theme-color-reference).
