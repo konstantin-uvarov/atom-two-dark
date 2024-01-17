@@ -39,5 +39,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/konstantin-uvarov/atom-two-dark"
+  },
+  "author": {
+    "name": "Konstantin Uvarov",
+    "email": "uvarov@msn.com",
+    "url": "https://www.linkedin.com/in/konstantin-uvarov/"
   }
 }
