@@ -1,16 +1,24 @@
-# atom-two-dark README
+# Atom Two Dark Theme
 
-## Working with Markdown
+VSCode Theme based on [Atom One Dark](https://github.com/akamud/vscode-theme-onedark) theme.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![](https://raw.githubusercontent.com/konstantin-uvarov/atom-two-dark/main/screenshots/preview.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Customization
 
-## For more information
+If you are using VSCode 1.12+ versions you can customize the colors to your liking, overriding the ones provided by this theme. More info [here](https://code.visualstudio.com/docs/getstarted/theme-color-reference).
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Custom Font
 
-**Enjoy!**
+You can easily [customize your settings](https://code.visualstudio.com/docs/getstarted/settings) to use it.  
+If you download and install the font in your system, you can add this option to have a custom font:
+
+```json
+{
+    "editor.fontFamily": "YOUR FONT, Menlo, Monaco, 'Courier New', monospace"
+}
+```
+
+## Credits
+
+[Atom](https://github.com/atom)
