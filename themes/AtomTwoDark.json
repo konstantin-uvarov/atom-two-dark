@@ -195,7 +195,6 @@
 			"scope": ["entity.other.attribute-name", "meta.tag.attributes"],
 			"settings": { "foreground": "#7ab3b1" }
 		},
-		// Initial tokens from Atom One Dark
     {
       "name": "Comment",
       "scope": ["comment"],
