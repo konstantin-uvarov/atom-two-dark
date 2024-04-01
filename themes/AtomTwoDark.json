@@ -84,7 +84,8 @@
     "peekViewResult.background": "#21252B",
     "peekViewResult.selectionBackground": "#2C313A",
     "peekViewTitle.background": "#1B1D23",
-    "peekViewEditor.background": "#1B1D23"
+    "peekViewEditor.background": "#1B1D23",
+    "tab.activeBorderTop": "#5a34a0"
   },
   "tokenColors": [
     {
